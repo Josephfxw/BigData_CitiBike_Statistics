@@ -13,7 +13,8 @@ that takes a CSV file as arguments and print out a single number showing the med
 customers in that file.
 
 EXAMPLE:
-python proj_task1.py citibike.csv
+$ python proj_task1.py citibike.csv
+Output:
 39
 
 
@@ -26,7 +27,8 @@ that takes a CSV file as arguments and print out a single number showing the med
 customers in that file.
 
 EXAMPLE:
-python proj_task2.py citibike.csv
+$ python proj_task2.py citibike.csv
+Output:
 1,,801,2015-02-01 00:00:00+00,2015-02-01 00:14:00+00,521,8 Ave & W 31
 St,40.75044999,-73.99481051,423,W 54 St & 9 Ave,40.76584941,-
 73.98690506,17131,Subscriber,1978,2
